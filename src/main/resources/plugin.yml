@@ -1,0 +1,5 @@
+name: floodgate-noclip
+version: 1.0.0
+main: com.gmail.heathmitchell27.floodgatenoclip.FloodgateNoclip
+load: STARTUP
+depend: [floodgate-bukkit]
