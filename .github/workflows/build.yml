@@ -28,4 +28,4 @@ jobs:
         if: success()
         with:
           name: floodgate-noclip
-          path:  target/floodgate-noclip-1.0-SNAPSHOT
+          path:  target/floodgate-noclip-1.0-SNAPSHOT.jar
