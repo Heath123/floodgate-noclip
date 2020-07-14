@@ -1,6 +1,6 @@
 package com.gmail.heathmitchell27.floodgatenoclip;
 
-import net.minecraft.server.v1_16_R1.DedicatedServerProperties;
+import net.minecraft.server.v1_15_R1.DedicatedServerProperties;
 import org.bukkit.craftbukkit.v1_16_R1.CraftServer;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.spigotmc.SpigotConfig;
